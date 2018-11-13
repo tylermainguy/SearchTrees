@@ -1,4 +1,4 @@
-#Search Trees
+# Search Trees
 
 Pretty straight-forward implementation of two different search trees, binary and red-black. Planning on implementing 
 an AVL tree in the near future.
